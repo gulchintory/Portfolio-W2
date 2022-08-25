@@ -9,5 +9,5 @@ https://github.com/gulchintory/Portfolio-W2
 
 # Screenshot
 ![screenshot1](./assets/screenshots/ss-1.png)
-![screenshot1](./assets/screenshots/ss-2.png)
-![screenshot1](./assets/screenshots/ss-3.png)
+![screenshot2](./assets/screenshots/ss-2.png)
+![screenshot3](./assets/screenshots/ss-3.png)
