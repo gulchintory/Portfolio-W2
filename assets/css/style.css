@@ -1,0 +1,133 @@
+
+h1 {
+    text-align: center;
+}
+
+.img-portfolio {
+height: 400px;
+width: 300px;
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 50px;
+border-style: solid;
+border-color: rgb(225, 219, 219);
+border-radius: 380px 380px;
+float: left;
+
+}
+
+
+.about-me {
+    text-align: justify;
+    font-family: Monospace;
+    font-size: 150%;
+    padding: 150px;
+    margin-top: 50px;
+    background-color: rgb(225, 219, 219);
+    border-style: solid;
+    border-radius: 380px 380px;
+    border-color: rgb(225, 219, 219);
+    }
+
+    .nav {
+        background-color: rgb(129, 111, 145);
+        overflow: hidden;
+        border-style: solid;
+        border-color: rgb(129, 116, 140);
+    }
+     
+    .nav a{
+        float: right;
+        color: black;
+        text-align: center;
+        padding: 20px 22px;
+        font-family: Verdana;
+        font-size: 20px;
+    }
+
+    .nav a:hover{
+        background-color: rgb(211, 188, 192);
+        color: whitesmoke;
+    }
+
+    .projects {
+        text-align: center;
+        font-family: 'Monospace', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;;
+        margin-top: 100px;
+        margin-left: 300px;
+        margin-right: 300px;
+        text-shadow: 5px;
+        border: solid;
+        border-color: rgb(188, 158, 168);
+        background-color: rgb(188, 158, 168);
+        border-radius: 200px 200px;
+    }
+
+    .work {
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: 140px;
+        width: 250px;
+        height: 200px;
+        border-radius: 10px 10px;
+        border: solid;
+        border-color: rgb(188, 158, 168);
+        float: left;
+    }
+     .list{
+        font-size: 30px;
+        line-height: 50px;
+        margin: 130px 100px 200px;
+        display: inline-block;
+    }
+
+    .contact {
+        text-align: center;
+        font-family: 'Monospace', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;
+        border: solid;
+        border-color: rgb(228, 206, 229);
+        background-color: rgb(228, 206, 229);
+        margin-left: 300px;
+        margin-right: 300px;
+        border-radius: 200px 200px;
+
+    }
+
+    .contact-img {
+        border: solid;
+        border-color: rgb(228, 206, 229);
+        border-radius: 10px 10px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 100px;
+        float: left;
+       
+    }
+
+    .contactlist {
+        border: solid;
+        border-color: rgb(228, 206, 229);
+        background-color: rgb(228, 206, 229);
+        margin-left: 650px;
+        margin-right: 800px;
+        margin-top: 115px;
+        border-radius: 10px 10px;
+        font-size: 110%;
+
+    }
+
+    .contactlist a:hover {
+        background-color: blueviolet;
+        color: rgb(101, 231, 54);
+    }
+
+    footer{
+        background-color: rgb(129, 111, 145);
+        font-size: 130%;
+        text-align: right;
+        margin: 5%;
+    }
+
+    
