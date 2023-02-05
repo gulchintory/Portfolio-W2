@@ -67,9 +67,9 @@ float: left;
     .work {
         margin-left: 100px;
         margin-right: 100px;
-        margin-top: 140px;
-        width: 250px;
-        height: 200px;
+        margin-top:40px;
+        width: 320px;
+        height: 220px;
         border-radius: 10px 10px;
         border: solid;
         border-color: rgb(188, 158, 168);
